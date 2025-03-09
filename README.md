@@ -11,7 +11,7 @@
 
 ## Find Me Online
 - **GitHub**: [github.com/avik-root](https://github.com/avik-root)
-- **LinkedIn**: [linkedin.com/in/avik-samanta-00b98228a](https://www.linkedin.com/in/avik-samanta-root/)
+- **LinkedIn**: [linkedin.com/in/avik-samanta-root](https://www.linkedin.com/in/avik-samanta-root/)
 - **Email**: [learn.aviksamanta@gmail.com](mailto:learn.aviksamanta@gmail.com)
 
 Feel free to explore my repositories and connect with me!

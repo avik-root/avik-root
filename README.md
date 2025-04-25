@@ -14,7 +14,7 @@ A modern web vulnerability scanner with:
 - 🔍 API integrations with **Shodan**, **AbuseIPDB**, **VirusTotal**
 - ⚡ Built with **Flask** & **TailwindCSS**, featuring a dynamic neon canvas UI
 
-### 🌐 [MintFire](https://github.com/avik-root/mintfire)
+### 🌐 [MintFire](https://github.com/anushagupta11/MintFiber)
 A security-focused developer organization crafting open-source tools with:
 - 🌅 Day/Night animated backgrounds
 - ✨ Floating logo effects & engaging UI

@@ -23,8 +23,6 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 
 [![MintFire Official Website](https://svg-banners.vercel.app/api?type=glitch&text1=MintFire%20Official%20Website&width=600&height=100)](https://mintfire.onrender.com)
 
-[![MintFire Official Website](https://svg-banners.vercel.app/api?type=glitch&text1=MintFire%20Official%20Website&font=Fira+Code&width=800&height=100)](https://mintfire.onrender.com)
-
 [![W3Guard Early Access - v1.5 Experimental](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Try+W3Guard+Early+Access;Version+1.5+Experimental+Now+Live!)](https://mintfire.onrender.com)
 
 **MintFire** is a future-driven security and technology company, focusing on innovation and cutting-edge solutions.  

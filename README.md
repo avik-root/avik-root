@@ -21,6 +21,10 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 # 🌐 Explore MintFire
 > **Website:** [MintFire Official Site 🚀](https://mintfire.onrender.com/)
 
+![W3Guard](https://img.shields.io/badge/Try-W3Guard%20Early%20Access-blueviolet?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.5%20Experimental-orange?style=for-the-badge)
+
+
 **MintFire** is a future-driven security and technology company, focusing on innovation and cutting-edge solutions.  
 
 ### 🔥 Top 5 Highlights:

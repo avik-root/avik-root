@@ -19,7 +19,7 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 ---
 
 # 🌐 Explore MintFire
-> **W҉e҉b҉s҉i҉t҉e҉:** [⚡ M¡n†F¡r∑ Øff¡c¡∆L 🚀](https://mintfire.onrender.com)
+[![MintFire Glitch Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=%F0%9D%94%A5+MINTFIRE+OFFICIAL+SITE+%F0%9F%9A%80;Try+W3Guard+Early+Access+v1.5+Now!)](https://mintfire.onrender.com)
 
 [![W3Guard Early Access - v1.5 Experimental](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Try+W3Guard+Early+Access;Version+1.5+Experimental+Now+Live!)](https://mintfire.onrender.com)
 

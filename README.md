@@ -21,9 +21,7 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 # 🌐 Explore MintFire
 > **Website:** [MintFire Official Site 🚀](https://mintfire.onrender.com/)
 
-![W3Guard](https://img.shields.io/badge/Try-W3Guard%20Early%20Access-blueviolet?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.5%20Experimental-orange?style=for-the-badge)
-
+[![W3Guard Early Access - v1.5 Experimental](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Try+W3Guard+Early+Access;Version+1.5+Experimental+Now+Live!)](https://mintfire.onrender.com)
 
 **MintFire** is a future-driven security and technology company, focusing on innovation and cutting-edge solutions.  
 

@@ -40,6 +40,16 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 
 # 🚀 Featured Projects
 
+
+### 🔐 [ΣMFIRE](https://github.com/avik-root/EMFIRE.git)  
+A next-gen decentralized group wallet platform featuring:
+
+✅ DAO-style governance with multi-signature ETH vaults  
+🟢 Real-time proposal status tracking and action feedback  
+⏳ AI-powered risk scoring and dynamic execution thresholds  
+🔍 On-chain history logs with visual execution flow  
+⚡ Built with Solidity, React, TailwindCSS, and Framer Motion in a 3D animated UI  
+
 ### 🔐 [W3Guard](https://github.com/avik-root/W3Guard)
 A next-gen web vulnerability scanner featuring:
 - ✅ Secure 2-step login with Super Key authentication

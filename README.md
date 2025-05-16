@@ -1,5 +1,5 @@
 # 👨‍💻 Avik Samanta
-
+![Header](./github-header-image.png)
 Hi there! I'm **Avik Samanta**, an **Ethical Hacker** and passionate **Cyber Security** professional.  
 I specialize in **C/C++**, **Python**, and **Linux**, and I thrive on solving complex security challenges, uncovering vulnerabilities, and helping make the digital world a safer place.  
 I'm a dedicated open-source contributor and love building tools that serve the infosec community.

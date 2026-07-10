@@ -9,7 +9,7 @@ I'm a dedicated open-source contributor and love building tools that serve the i
 - 👨‍💻 Ethical Hacker at **ZeroDay Alliance**
 - 🛡️ Passionate about making the digital world safer
 - 🚀 Love solving complex security challenges
-- 🐍 Proficient in C, C++, Python, Go, PHP, Bash
+- 🐍 Proficient in C, C++, Python, Java, Go, PHP, Bash
 - 🛠️ Skilled in Full-Stack Development (Node.js, React, Express, MongoDB, Next.js)
 - 🌐 Web3 and Blockchain Enthusiast
 - ☁️ Experienced with DevOps, Docker, Kubernetes, AWS, and Firebase

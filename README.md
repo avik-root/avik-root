@@ -49,7 +49,7 @@ Currently **Founder & President** of [ZeroDay Alliance](https://democtf.zerodaya
 
 | Project | Description | Stack | Live | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fault** | Offline LLM runtime for Android & iOS | Swift, Kotlin, C++, llama.cpp | [faultlm.vercel.app](https://fault.itsavik.com) | [Android](https://github.com/avik-root/Fault) · [iOS](https://github.com/avik-root/Fault-iOS) |
+| **Fault** | Offline LLM runtime for Android & iOS | Swift, Kotlin, C++, llama.cpp | [fault.itsavik.com](https://fault.itsavik.com) | [Android](https://github.com/avik-root/Fault) · [iOS](https://github.com/avik-root/Fault-iOS) |
 | **SeaMora SLM** | 1B/1.5B reasoning model with CoT | Python, PyTorch, GGUF, LoRA | [Ollama](https://ollama.com/aviksamantaofficial/seamora-mini) | [Mini](https://github.com/avik-root/SeaMoraMini) · [SLM](https://github.com/avik-root/Sea_SLM) |
 | **Jellymint AI v2** | Self-hosted AI with RAG & multi-agent | JavaScript, Node.js | [jellymint-ai.vercel.app](https://jellymint-ai.vercel.app) | [v1](https://github.com/avik-root/Jellymint_AI) · [v2](https://github.com/avik-root/Jellymintv2) |
 | **idroid Share** | Android ↔ Mac file transfer & mirroring | TypeScript, Next.js, WebRTC | [idroid-share.vercel.app](https://idroid-share.vercel.app) | [GitHub](https://github.com/avik-root/idroid_share) |
